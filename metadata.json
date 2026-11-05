@@ -1,0 +1,6 @@
+{
+  "name": "Discover Invest — HR Attestatsiya va Test Tizimi",
+  "description": "Discover Invest kompaniyasi HR bo'limi uchun yangi xodimlarni qabul qilish va qurilish ustalarini Basic, Intermediate hamda Advanced darajalarida attestatsiyadan o'tkazish web-ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
